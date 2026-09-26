@@ -1,10 +1,10 @@
 # Basic Employee Onboarding (AD) (RBAC)
 
 ## Problem Statement
-[Provide 3 to 5 sentences describing what was broken at Northstar Medical Group. Mention the MSP mismanagement, lack of structure, manual processes, and HIPAA risks that existed before your project.]
+Northstar Medical Group hired a managed service provider (MSP) to handle its access management. The MSP set up a flat, unsegmented Active Directory infrastructure without standardized Role-Based Access Control (RBAC). As the organization grew to more than 200 user accounts, the lack of fine-grained access controls led to extensive overprovisioning and violations of the Principle of Least Privilege. In addition, the absence of automated deprovisioning workflows left accounts active after employees departed. Unmonitored access pathways and stale accounts increased the company’s risk of noncompliance with the HIPAA Security Rule.
 
 ## Solution Overview
-[Provide 4 to 6 sentences describing what you built and how it solved the problem. Cover the new domain creation, the structural OU design, the security groups, the flat RBAC model, and how user provisioning was secured.]
+To address these access control flaws, I designed and implemented a new Active Directory domain with an Organizational Unit (OU) hierarchy aligned with the company’s functional divisions. I created specialized security groups within the OUs to implement Role-Based Access Control (RBAC) consistent with the Principle of Least Privilege. By mapping permissions to job responsibilities and operational requirements, I limited each user’s access to what their role required. This structured approach removed unapproved access pathways, standardized user provisioning, and reduced overprovisioning and directory sprawl. The remediation also addressed the security risks posed by orphaned accounts and strengthened compliance with the HIPAA Security Rule.
 
 ## Video Walkthrough
 [Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
