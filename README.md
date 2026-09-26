@@ -1,4 +1,4 @@
-# Basic Employee Onboarding (AD) (RBAC)
+# Basic Employee Onboarding (AD)(RBAC)
 
 ## Problem Statement
 Northstar Medical Group (fictional company) hired a managed service provider (MSP) to handle its access management. The MSP set up a flat, unsegmented Active Directory infrastructure without standardized Role-Based Access Control (RBAC). As the organization grew to more than 200 user accounts, the lack of fine-grained access controls led to extensive overprovisioning and violations of the Principle of Least Privilege. In addition, the absence of automated deprovisioning workflows left accounts active after employees departed. Unmonitored access pathways and stale accounts increased the company’s risk of noncompliance with the HIPAA Security Rule.
