@@ -11,10 +11,10 @@ To address these access control flaws, I designed and implemented a new Active D
 
 ## Tools Used
 * Windows Server
-* Active Directory Domain Services
-* VirtualBox
+* Active Directory Domain Services (AD DS)
+* Oracle VM VirtualBox
 * UTM
-* RBAC
+* Role-Based Access Control (RBAC)
 * GitHub
 
 ## Project Timeline
