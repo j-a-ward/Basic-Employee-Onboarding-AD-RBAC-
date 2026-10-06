@@ -1,4 +1,4 @@
-NMG-0047 Ticket Resolution
+NMG-0047 Resolution
 ---------------------------
 
 1) Jane's User Identity is in the Operations OU.
