@@ -9,11 +9,11 @@ To address these access control flaws, I designed and implemented a new Active D
 ## Video Walkthrough
 [Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
 
-## Tools Used
-* Windows Server
+## Tools and Methodologies
+* Windows Server 19
 * Active Directory Domain Services (AD DS)
 * Oracle VM VirtualBox
-* UTM
+* Principle of Least Privilege (PoLP)
 * Role-Based Access Control (RBAC)
 * Linux (Bodhi Linux / Ubuntu LTS)
 * GitHub
