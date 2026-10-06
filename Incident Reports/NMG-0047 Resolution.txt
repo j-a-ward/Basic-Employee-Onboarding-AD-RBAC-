@@ -1,4 +1,5 @@
 NMG-0047 Ticket Resolution
+---------------------------
 
 1) Jane's User Identity is in the Operations OU.
 2) Jane Cooper is currently in the Operations OU. She should be in the HR OU. (HR Payroll Specialist).
