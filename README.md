@@ -7,7 +7,16 @@ Northstar Medical Group (fictional company) hired a Managed Service Provider (MS
 To address these access control flaws, I designed and implemented a new Active Directory domain with an Organizational Unit (OU) hierarchy aligned with the company’s functional divisions. I created specialized security groups within the OUs to implement Role-Based Access Control (RBAC) consistent with the Principle of Least Privilege (PoLP). By mapping permissions to job responsibilities and operational requirements, I limited each user’s access to what their role required. This structured approach removed unapproved access pathways, standardized user provisioning, and reduced overprovisioning and directory sprawl. The remediation also addressed the security risks posed by orphaned accounts and strengthened compliance with the HIPAA Security Rule.
 
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+
+<table>
+<tr>
+<td align="center">
+
+https://www.loom.com/share/55c0ceae6ae94b658ebcbfe5711910c9
+
+</td>
+</tr>
+</table>
 
 ## Tools and Methodologies
 * Windows Server
