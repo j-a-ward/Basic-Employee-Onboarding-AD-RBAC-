@@ -9,13 +9,21 @@ To address these access control flaws, I designed and implemented a new Active D
 ## Video Walkthrough
 
 <table>
-<tr>
-<td align="center">
-
-https://www.loom.com/share/55c0ceae6ae94b658ebcbfe5711910c9
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.loom.com/share/55c0ceae6ae94b658ebcbfe5711910c9">
+        <img src="https://github.com/j-a-ward/j-a-ward/blob/da7d93b0af8cfc884eb6c6e2156dac65e4c8d100/images/Loom%20Video%20Walkthroughl.gif"
+             alt="Basic Employee Onboarding (AD) (RBAC)"
+             style="object-fit: cover; border-radius: 8px;"/>
+      </a>
+      <br/>
+      <a href="https://www.loom.com/share/55c0ceae6ae94b658ebcbfe5711910c9">
+          <img src="https://img.shields.io/badge/View_Video_Walkthrough-%230077B5.svg?&style=for-the-badge&logoColor=white"
+            alt="https://www.loom.com/share/55c0ceae6ae94b658ebcbfe5711910c9"/>
+      </a>
+      <br/>
+   </td>
+  </tr>
 </table>
 
 ## Tools and Methodologies
