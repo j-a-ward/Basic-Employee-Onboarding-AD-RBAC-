@@ -27,7 +27,7 @@ To address these access control flaws, I designed and implemented a new Active D
 </table>
 
 ## Tools and Methodologies
-* Windows Server
+* Windows Server 2019
 * Active Directory Domain Services (AD DS)
 * Oracle VM VirtualBox
 * Principle of Least Privilege (PoLP)
